@@ -1,1 +1,2 @@
-我是本地文件　TestSmartGit目录下新建的test.txt文件
+我是本地文件　TestSmartGit目录下新建的test.txt文件 
+commit not push
